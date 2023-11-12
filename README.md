@@ -1,5 +1,4 @@
-### :fire: My Stats :
-
+### Hi
 <a href="https://github.com/nyomr"><img src="https://github-readme-streak-stats.herokuapp.com?user=nyomr&theme=blueberry-duo" alt="GitHub Streak" /></a>
 
 
