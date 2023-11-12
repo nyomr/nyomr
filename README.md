@@ -1,7 +1,6 @@
 ### :fire: My Stats :
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nyomr&theme=ambient-gradient" alt="GitHub Streak" /></a>
-
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nyomr&theme=blueberry-duo" alt="GitHub Streak" /></a>
 
 <!--
 **nyomr/nyomr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
