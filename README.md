@@ -2,7 +2,10 @@
   <h1> 
     Hello World! 👋
   </h1>
-  <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=nyomr.nyomr&left_color=royalblue&right_color=black"  />
+  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=nyomr.nyomr&left_color=royalblue&right_color=black"  />
+  <h3 align="center">
+    Tech Enthusiast
+  </h3>
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
 </div>
 <div id="content" align="center">
