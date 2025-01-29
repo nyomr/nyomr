@@ -5,8 +5,8 @@
   <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
 </div>
 <div id="content" align="center">
-  <a href="https://github.com/nyomr"><img height="192px" src="https://github-readme-streak-stats.herokuapp.com?user=nyomr&theme=gotham" alt="GitHub Streak" /></a>
-  <a href="https://github.com/nyomr"><img height="192px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyomr&layout=compact&theme=gotham" /></a>
+  <a href="https://github.com/nyomr"><img height="193px" src="https://github-readme-streak-stats.herokuapp.com?user=nyomr&theme=gotham" alt="GitHub Streak" /></a>
+  <a href="https://github.com/nyomr"><img height="193px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyomr&layout=compact&theme=gotham" /></a>
 </div>
 <div id="content-2" align="center">
   
