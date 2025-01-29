@@ -6,7 +6,7 @@
 </div>
 <div id="content" align="center">
   <a href="https://github.com/nyomr"><img src="https://github-readme-streak-stats.herokuapp.com?user=nyomr&theme=gotham" alt="GitHub Streak" /></a>
-  <a href="https://github.com/nyomr"><img width="300px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyomr&layout=compact&theme=gotham" /></a>
+  <a href="https://github.com/nyomr"><img width="350px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyomr&layout=compact&theme=gotham" /></a>
 </div>
 <div id="content-2" align="center">
   
