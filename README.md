@@ -3,7 +3,7 @@
     Hello World! 👋
   </h1>
   <h3 align="center">
-    A Passionate Learner and Tech Enthusiast
+    Growing as Developer & Data Scientist
   </h3>
 </div>
 
