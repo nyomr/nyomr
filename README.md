@@ -37,5 +37,5 @@
 
 ##
 <div id="footer" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="15"> <em><b>Connect with me, and let's embark on a journey of continuous learning and growth!</b></em>
+<img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="15"> <em><b>Connect with me, and let's embark on a journey of continuous learning and innovation!</b></em>
 </div>
