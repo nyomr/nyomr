@@ -7,6 +7,13 @@
   </h4>
 </div>
 
+<div align="center">
+  <a href="https://u8views.com/github/nyomr"><img align="center" src="https://u8views.com/api/v1/github/profiles/99974514/views/day-week-month-total-count.svg"></a>
+</div>
+
+##
+<img align="center" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
+
 ---
 
 ### 🚀 About Me  
@@ -16,13 +23,6 @@
 - 📚 Always eager to learn and collaborate on tech projects
 
 ---
-
-<div align="center">
-  <a href="https://u8views.com/github/nyomr"><img align="center" src="https://u8views.com/api/v1/github/profiles/99974514/views/day-week-month-total-count.svg"></a>
-</div>
-
-##
-<img align="center" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif">
 
 <div id="content" align="center">
   <a href="https://github.com/nyomr"><img height="193px" src="https://github-readme-streak-stats.herokuapp.com/?user=nyomr&theme=gotham&hide_border=false)" /></a>
