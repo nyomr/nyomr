@@ -1,10 +1,10 @@
 <div id="header" align="center">
   <h1> 
-    Hello World! 👋
+    👋 Hey there! I'm Nyoman
   </h1>
-  <h3 align="center">
+  <h4 align="center">
     Growing as Developer & Data Scientist
-  </h3>
+  </h4>
 </div>
 
 ---
@@ -37,8 +37,5 @@
 
 ##
 <div id="footer" align="center">
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="15">
-</p>
 <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="15"> <em><b>Connect with me, and let's embark on a journey of continuous learning and growth!</b></em>
 </div>
