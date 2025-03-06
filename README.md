@@ -7,8 +7,18 @@
   </h3>
 </div>
 
+---
+
+### 🚀 About Me  
+- 🎓 Currently a student at **Institut Teknologi Sepuluh Nopember (ITS)**
+- 🤖 Interested in **Data Science, AI, and Product Development**
+- 🔍 Currently working on **Speech-to-Text** and **Personal Portfolio Website**
+- 📚 Always eager to learn and collaborate on tech projects
+
+---
+
 <div align="center">
-  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=nyomr.nyomr&left_color=royalblue&right_color=black"  />
+  <a href="https://u8views.com/github/nyomr"><img align="center" src="https://u8views.com/api/v1/github/profiles/99974514/views/day-week-month-total-count.svg"></a>
 </div>
 
 ##
@@ -27,5 +37,8 @@
 
 ##
 <div id="footer" align="center">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="15">
+</p>
 <img src="https://user-images.githubusercontent.com/74038190/216120981-b9507c36-0e04-4469-8e27-c99271b45ba5.png" width="15"> <em><b>Connect with me, and let's embark on a journey of continuous learning and growth!</b></em>
 </div>
