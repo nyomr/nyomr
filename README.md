@@ -19,7 +19,7 @@
 ### 🚀 About Me  
 - 🎓 Currently a student at **Institut Teknologi Sepuluh Nopember (ITS)**
 - 🤖 Interested in **Data Science, AI, and Product Development**
-- 🔍 Currently working on **Speech-to-Text** and **Personal Portfolio Website**
+- 🔍 Currently working on **Financial LLM**, **Speech-to-Text**, and **Personal Portfolio Website**
 - 📚 Always eager to learn and collaborate on tech projects
 
 ---
