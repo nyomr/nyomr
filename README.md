@@ -25,7 +25,7 @@
 ---
 
 <div id="content" align="center">
-  <a href="https://github.com/nyomr"><img height="193px" src="https://github-readme-streak-stats.herokuapp.com/?user=nyomr&theme=gotham&hide_border=false)" /></a>
+<!--   <a href="https://github.com/nyomr"><img height="193px" src="https://github-readme-streak-stats.herokuapp.com/?user=nyomr&theme=gotham&hide_border=false" /></a> -->
   <a href="https://github.com/nyomr"><img height="193px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyomr&theme=gotham&show_icons=true&hide_border=false&layout=compact" /></a>
 </div>
 <div id="content-2" align="center">
