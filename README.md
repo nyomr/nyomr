@@ -19,13 +19,13 @@
 ### 🚀 About Me  
 - 🎓 Currently a student at **Institut Teknologi Sepuluh Nopember (ITS)**
 - 🤖 Interested in **Data Science, AI, and Product Development**
-- 🔍 Currently developing a **Fraud Detection System**, **Quantitative Finance Tools**, **Learning Assistant**, and **Personal Portfolio Website**
+- 🔍 Currently developing a **Corporate Network Analysis**, **Quantitative Finance Tools**, **Learning Assistant**, and **Personal Portfolio Website**
 - 📚 Always eager to learn and collaborate on tech projects
 
 ---
 
 <div id="content" align="center">
-<!--   <a href="https://github.com/nyomr"><img height="193px" src="https://github-readme-streak-stats.herokuapp.com/?user=nyomr&theme=gotham&hide_border=false" /></a> -->
+  <a href="https://github.com/nyomr"><img height="193px" src="https://github-readme-streak-stats.herokuapp.com/?user=nyomr&theme=gotham&hide_border=false" /></a>
   <a href="https://github.com/nyomr"><img height="193px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nyomr&theme=gotham&show_icons=true&hide_border=false&layout=compact" /></a>
 </div>
 <div id="content-2" align="center">
