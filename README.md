@@ -22,7 +22,9 @@
 ---
 
 ##
-![Snake animation](https://raw.githubusercontent.com/nyomr/nyomr/output/github-contribution-grid-snake-dark.svg)
+<div id="body" align="center">
+<img align="center" src="https://raw.githubusercontent.com/nyomr/nyomr/output/github-contribution-grid-snake-dark.svg">
+</div>
 
 ##
 <div id="footer" align="center">
