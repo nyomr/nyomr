@@ -2,9 +2,6 @@
   <h1> 
     👋 Hey there! I'm Nyoman
   </h1>
-  <h4 align="center">
-    Growing as Developer & Data Scientist
-  </h4>
 </div>
 
 <div align="center">
